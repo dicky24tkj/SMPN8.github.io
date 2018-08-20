@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_update" value="name:id_peminjaman;datatype:int,name:kode_buku;datatype:int,name:nis;datatype:int,name:tanggal_peminjaman;datatype:int,name:tanggal_pengembalian;datatype:int" />
+</info>

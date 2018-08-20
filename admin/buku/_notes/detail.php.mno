@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_DetailRS1" value="name:id_buku;datatype:int,name:id_katagori_buku;datatype:int,name:judul_buku;datatype:string,name:kode_buku;datatype:int,name:abstrak;datatype:blob,name:penulis;datatype:string,name:Tahaun_terbit;datatype:int,name:penerbit;datatype:string,name:pengarang;datatype:string,name:id_katagori_penerbit;datatype:int" />
+	<infoitem key="UD_LiveData_params" value="1" />
+	<infoitem key="UD_LiveData_param0" value="recordID=1" />
+</info>

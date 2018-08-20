@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_update" value="name:id_peminjaman;datatype:int,name:kode_buku;datatype:string,name:nis;datatype:int,name:tanggal_peminjaman;datatype:date,name:tanggal_pengembalian;datatype:date,name:tgl_dikembalikan;datatype:date,name:denda;datatype:string,name:status;datatype:int,name:id_siswa;datatype:int,name:nis;datatype:int,name:nama_siswa;datatype:string,name:alamat;datatype:string,name:kelas;datatype:string,name:TTL;datatype:int,name:jenis_kelamin;datatype:string" />
+	<infoitem key="UD_denda" value="name:id_denda;datatype:int,name:jumlah_denda;datatype:int" />
+</info>

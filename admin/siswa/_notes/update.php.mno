@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_update" value="name:id_siswa;datatype:int,name:nis;datatype:int,name:nama_siswa;datatype:string,name:alamat;datatype:string,name:kelas;datatype:string,name:TTL;datatype:int,name:jenis_kelamin;datatype:string" />
+</info>

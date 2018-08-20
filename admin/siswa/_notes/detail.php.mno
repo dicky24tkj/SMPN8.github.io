@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_LiveData_params" value="1" />
+	<infoitem key="UD_LiveData_param0" value="recordID=1" />
+	<infoitem key="UD_DetailRS1" value="name:id_siswa;datatype:int,name:nis;datatype:int,name:nama_siswa;datatype:string,name:alamat;datatype:string,name:kelas;datatype:string,name:TTL;datatype:int,name:jenis_kelamin;datatype:string" />
+</info>

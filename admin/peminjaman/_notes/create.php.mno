@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_buku" value="name:id_buku;datatype:int,name:id_katagori_buku;datatype:int,name:judul_buku;datatype:string,name:kode_buku;datatype:string,name:abstrak;datatype:blob,name:penulis;datatype:string,name:Tahaun_terbit;datatype:int,name:penerbit;datatype:string,name:pengarang;datatype:string" />
+	<infoitem key="UD_siswa" value="name:id_siswa;datatype:int,name:nis;datatype:int,name:nama_siswa;datatype:string,name:alamat;datatype:string,name:kelas;datatype:string,name:TTL;datatype:int,name:jenis_kelamin;datatype:string" />
+	<infoitem key="UD_cek_nis" value="name:id_peminjaman;datatype:int,name:kode_buku;datatype:string,name:nis;datatype:int,name:tanggal_peminjaman;datatype:date,name:tanggal_pengembalian;datatype:date,name:tgl_dikembalikan;datatype:date,name:total_bayar;datatype:string,name:status;datatype:int" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_index" value="name:id_buku;datatype:int,name:id_katagori_buku;datatype:int,name:judul_buku;datatype:string,name:kode_buku;datatype:string,name:abstrak;datatype:blob,name:penulis;datatype:string,name:Tahaun_terbit;datatype:int,name:penerbit;datatype:string,name:pengarang;datatype:string" />
+</info>

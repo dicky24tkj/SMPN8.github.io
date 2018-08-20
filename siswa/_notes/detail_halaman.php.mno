@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_DetailRS1" value="name:id_halaman;datatype:int,name:nama_halaman;datatype:string,name:isi_halaman;datatype:blob,name:foto_halaman;datatype:string,name:id_kat_halaman;datatype:int" />
+</info>

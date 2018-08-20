@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_jawab" value="name:id_jawab;datatype:int,name:jawaban;datatype:blob,name:id_tanya;datatype:int" />
+</info>

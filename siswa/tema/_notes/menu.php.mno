@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_kategori_buku" value="name:id_katagori_buku;datatype:int,name:nama_katagori;datatype:string" />
+	<infoitem key="UD_profil" value="name:id_halaman;datatype:int,name:nama_halaman;datatype:string,name:isi_halaman;datatype:blob,name:foto_halaman;datatype:string,name:id_kat_halaman;datatype:int" />
+	<infoitem key="UD_galeri" value="name:id_halaman;datatype:int,name:nama_halaman;datatype:string,name:isi_halaman;datatype:blob,name:foto_halaman;datatype:string,name:id_kat_halaman;datatype:int" />
+</info>
